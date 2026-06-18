@@ -1,0 +1,15 @@
+[
+  {
+    "id": "address_001",
+    "receiver": "张三",
+    "contact": "13800138000",
+    "provinceCode": "110000",
+    "cityCode": "110100",
+    "countyCode": "110101",
+    "fullLocation": "北京市 东城区",
+    "address": "天安门广场1号",
+    "postalCode": "100000",
+    "addressTags": "",
+    "isDefault": 0
+  }
+]

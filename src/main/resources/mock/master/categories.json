@@ -1,0 +1,777 @@
+[
+  {
+    "id": "1005000",
+    "name": "居家",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/201516e3-25d0-48f5-bcee-7f0cafb14176.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "1005999003",
+        "name": "居家生活用品",
+        "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/7f6a7b20-7902-4b43-b9c5-f33151ef1334.jpg?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "1369155859933827074",
+          "1379052170040578049"
+        ]
+      },
+      {
+        "id": "1008017",
+        "name": "收纳",
+        "picture": "https://yanxuan.nosdn.127.net/366989e4d730594e86fcd60b5ab19acc.png?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "1183010",
+          "1108008",
+          "1028004",
+          "1252031",
+          "1225018"
+        ]
+      },
+      {
+        "id": "1017000",
+        "name": "宠物食品",
+        "picture": "https://yanxuan.nosdn.127.net/b42a85ef15f856081ea9f49e5f6893e2.png?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "3847005",
+          "3407081",
+          "3405016",
+          "3425016",
+          "1318002"
+        ]
+      },
+      {
+        "id": "109243003",
+        "name": "艺术藏品",
+        "picture": "https://yanxuan.nosdn.127.net/9544b81aaa14c26a8038c2365ff3c2bc.png?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "4001880",
+          "4001920",
+          "4000295",
+          "4001798",
+          "3993860"
+        ]
+      },
+      {
+        "id": "109248004",
+        "name": "宠物用品",
+        "picture": "https://yanxuan.nosdn.127.net/e766b09029ca00680d1e651b5cdc42bd.png?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "3986658",
+          "1435024",
+          "1435025",
+          "4000278",
+          "3990698"
+        ]
+      },
+      {
+        "id": "109293000",
+        "name": "家庭医疗",
+        "picture": "https://yanxuan.nosdn.127.net/3f34039fa8c26e18e2f4fc96ed8cb6de.png?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "3995913",
+          "3988985",
+          "1469019",
+          "3997974",
+          "3997406"
+        ]
+      },
+      {
+        "id": "109308000",
+        "name": "中医保健",
+        "picture": "https://yanxuan.nosdn.127.net/2bfba997fd031317caecc4f0bad17569.png?quality=95&imageView",
+        "parentId": "1005000",
+        "parentName": "居家",
+        "layer": 2,
+        "goodsIds": [
+          "3997602",
+          "3993481",
+          "3995284",
+          "3992367",
+          "3991840"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1005002",
+    "name": "美食",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/cf82e5b4-bf1b-4c68-aa86-96f66e8e5282.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "1005012",
+        "name": "南北干货",
+        "picture": "https://yanxuan.nosdn.127.net/9af51a1090fd32f668b14451f06d6e72.png?quality=95&imageView",
+        "parentId": "1005002",
+        "parentName": "美食",
+        "layer": 2,
+        "goodsIds": [
+          "1189003",
+          "1189004",
+          "1188005",
+          "1189007",
+          "1189005"
+        ]
+      },
+      {
+        "id": "1036003",
+        "name": "调味酱菜",
+        "picture": "https://yanxuan.nosdn.127.net/5fae33a840870b487cc903535383bf97.png?quality=95&imageView",
+        "parentId": "1005002",
+        "parentName": "美食",
+        "layer": 2,
+        "goodsIds": [
+          "1135059",
+          "3419049",
+          "3388018",
+          "1545002",
+          "3409008"
+        ]
+      },
+      {
+        "id": "109201001",
+        "name": "方便食品",
+        "picture": "https://yanxuan.nosdn.127.net/f9872b4aad6c0a943d45629ac96ee8d3.png?quality=95&imageView",
+        "parentId": "1005002",
+        "parentName": "美食",
+        "layer": 2,
+        "goodsIds": [
+          "1691024",
+          "1292003",
+          "1293000",
+          "3452050",
+          "3464033"
+        ]
+      },
+      {
+        "id": "109206007",
+        "name": "米面粮油",
+        "picture": "https://yanxuan.nosdn.127.net/8578759aed2268f7aa8641273cac7cb3.png?quality=95&imageView",
+        "parentId": "1005002",
+        "parentName": "美食",
+        "layer": 2,
+        "goodsIds": [
+          "1135079",
+          "1135080",
+          "1135075",
+          "1269010",
+          "1135076"
+        ]
+      },
+      {
+        "id": "109264007",
+        "name": "名酒馆",
+        "picture": "https://yanxuan.nosdn.127.net/91413b1476a0697bb0592609a42d4498.png?quality=95&imageView",
+        "parentId": "1005002",
+        "parentName": "美食",
+        "layer": 2,
+        "goodsIds": [
+          "3998106",
+          "3997547",
+          "3995885",
+          "3399000",
+          "3463003"
+        ]
+      },
+      {
+        "id": "109285003",
+        "name": "进口酒",
+        "picture": "https://yanxuan.nosdn.127.net/bf705060f01b60fe9c11c345931b1891.png?quality=95&imageView",
+        "parentId": "1005002",
+        "parentName": "美食",
+        "layer": 2,
+        "goodsIds": [
+          "3407009",
+          "1505052",
+          "1471002",
+          "1425007",
+          "1425011"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1010000",
+    "name": "服饰",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/33e1f5de-0fdb-4cfa-9ba9-781233024b53.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "109303000",
+        "name": "钱包/胸包",
+        "picture": "https://yanxuan.nosdn.127.net/237613bc9c22eb422dade63e3ed7c61a.png?quality=95&imageView",
+        "parentId": "1010000",
+        "parentName": "服饰",
+        "layer": 2,
+        "goodsIds": [
+          "4019044",
+          "4013563",
+          "4013716",
+          "4019910",
+          "4020262"
+        ]
+      },
+      {
+        "id": "109311005",
+        "name": "女式靴子",
+        "picture": "https://yanxuan.nosdn.127.net/62c5dacf3e0cbe8e4188ccd263358d1a.png?quality=95&imageView",
+        "parentId": "1010000",
+        "parentName": "服饰",
+        "layer": 2,
+        "goodsIds": [
+          "1667068",
+          "1666023",
+          "1651001",
+          "1652031",
+          "3818015"
+        ]
+      },
+      {
+        "id": "109311006",
+        "name": "女式休闲鞋",
+        "picture": "https://yanxuan.nosdn.127.net/8cd3a76ffffb14e9fe92ad2369117af0.png?quality=95&imageView",
+        "parentId": "1010000",
+        "parentName": "服饰",
+        "layer": 2,
+        "goodsIds": [
+          "3991784",
+          "3986614",
+          "3827017",
+          "1666066",
+          "3986520"
+        ]
+      },
+      {
+        "id": "109311007",
+        "name": "女式运动鞋",
+        "picture": "https://yanxuan.nosdn.127.net/7be561f2ddc2179a7e116c413636eba9.png?quality=95&imageView",
+        "parentId": "1010000",
+        "parentName": "服饰",
+        "layer": 2,
+        "goodsIds": [
+          "4000582",
+          "3996616",
+          "3995078",
+          "3997933",
+          "3459033"
+        ]
+      },
+      {
+        "id": "109315000",
+        "name": "11.11购物狂欢",
+        "picture": "https://yanxuan.nosdn.127.net/b29297263032957553d7153b309db74b.png?quality=95&imageView",
+        "parentId": "1010000",
+        "parentName": "服饰",
+        "layer": 2,
+        "goodsIds": [
+          "4001285",
+          "4000620",
+          "4000102",
+          "4000283",
+          "4000422"
+        ]
+      },
+      {
+        "id": "109318003",
+        "name": "【年末狂欢季】",
+        "picture": "https://yanxuan.nosdn.127.net/8f8092d5bf6a133a8cb59ab7b9f790e9.png?quality=95&imageView",
+        "parentId": "1010000",
+        "parentName": "服饰",
+        "layer": 2,
+        "goodsIds": [
+          "1555000",
+          "1621018",
+          "1593000",
+          "1281002",
+          "1436033"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1011000",
+    "name": "母婴",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/b514a526-4010-4ce8-8cb9-757ed382f84a.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "1020003",
+        "name": "T恤/polo/衬衫",
+        "picture": "https://yanxuan.nosdn.127.net/1f0089afcec911db7202fbcdae57d5f8.png?quality=95&imageView",
+        "parentId": "1011000",
+        "parentName": "母婴",
+        "layer": 2,
+        "goodsIds": [
+          "4026450",
+          "4007902",
+          "4007498",
+          "4026178",
+          "3994470"
+        ]
+      },
+      {
+        "id": "1037006",
+        "name": "儿童鞋",
+        "picture": "https://yanxuan.nosdn.127.net/7fd14a409302391da16970981cacd336.png?quality=95&imageView",
+        "parentId": "1011000",
+        "parentName": "母婴",
+        "layer": 2,
+        "goodsIds": [
+          "3992495",
+          "3991463",
+          "3989454",
+          "1519011",
+          "3884023"
+        ]
+      },
+      {
+        "id": "109243018",
+        "name": "外套/套装",
+        "picture": "https://yanxuan.nosdn.127.net/773a8777f66c286f97af6d74a27d7fe1.png?quality=95&imageView",
+        "parentId": "1011000",
+        "parentName": "母婴",
+        "layer": 2,
+        "goodsIds": [
+          "3995846",
+          "3995206",
+          "3995195",
+          "3994908",
+          "3994471"
+        ]
+      },
+      {
+        "id": "109243019",
+        "name": "裤子/裙装",
+        "picture": "https://yanxuan.nosdn.127.net/a8c52cea5f953019484a74883ad8f14b.png?quality=95&imageView",
+        "parentId": "1011000",
+        "parentName": "母婴",
+        "layer": 2,
+        "goodsIds": [
+          "4005108",
+          "4001239",
+          "4005109",
+          "4003104",
+          "3995844"
+        ]
+      },
+      {
+        "id": "109243021",
+        "name": "连体衣/礼盒",
+        "picture": "https://yanxuan.nosdn.127.net/773677cc0922628152a9b3cbd862426f.png?quality=95&imageView",
+        "parentId": "1011000",
+        "parentName": "母婴",
+        "layer": 2,
+        "goodsIds": [
+          "4005106",
+          "4007963",
+          "4023745",
+          "4007970",
+          "4000277"
+        ]
+      },
+      {
+        "id": "109243022",
+        "name": "学步鞋",
+        "picture": "https://yanxuan.nosdn.127.net/9a50280bb69e1c12f557f601cce1c480.png?quality=95&imageView",
+        "parentId": "1011000",
+        "parentName": "母婴",
+        "layer": 2,
+        "goodsIds": [
+          "4023738",
+          "4023641",
+          "4027466",
+          "4007784",
+          "3998535"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1013001",
+    "name": "个护",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/d38a73b8-cd03-48aa-a60b-e7c4e16667ed.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "1020002",
+        "name": "浴室用品",
+        "picture": "https://yanxuan.nosdn.127.net/dfb6142de1bd2f59b251eb8f7c7ea2fb.png?quality=95&imageView",
+        "parentId": "1013001",
+        "parentName": "个护",
+        "layer": 2,
+        "goodsIds": [
+          "1109013",
+          "1487013",
+          "1451027",
+          "1435017",
+          "1389000"
+        ]
+      },
+      {
+        "id": "109243016",
+        "name": "餐厨清洁",
+        "picture": "https://yanxuan.nosdn.127.net/55d927e337c1f6d394359e99ef72a621.png?quality=95&imageView",
+        "parentId": "1013001",
+        "parentName": "个护",
+        "layer": 2,
+        "goodsIds": [
+          "1076003",
+          "1031002",
+          "1006058",
+          "1494003",
+          "1540016"
+        ]
+      },
+      {
+        "id": "109256012",
+        "name": "纸品",
+        "picture": "https://yanxuan.nosdn.127.net/07fef43b0d14882d6662233ab30dc588.png?quality=95&imageView",
+        "parentId": "1013001",
+        "parentName": "个护",
+        "layer": 2,
+        "goodsIds": [
+          "1113001",
+          "1124015",
+          "1418009",
+          "1343000",
+          "1512026"
+        ]
+      },
+      {
+        "id": "109256013",
+        "name": "干湿巾",
+        "picture": "https://yanxuan.nosdn.127.net/985897ea31fdfc159e12696f4dbb4c13.png?quality=95&imageView",
+        "parentId": "1013001",
+        "parentName": "个护",
+        "layer": 2,
+        "goodsIds": [
+          "3465081",
+          "1554011",
+          "1554013",
+          "3406047",
+          "1554014"
+        ]
+      },
+      {
+        "id": "109261055",
+        "name": "毛巾浴巾",
+        "picture": "https://yanxuan.nosdn.127.net/949c5f8b077cf386ff9f1f18bec3408b.png?quality=95&imageView",
+        "parentId": "1013001",
+        "parentName": "个护",
+        "layer": 2,
+        "goodsIds": [
+          "1129016",
+          "1006029",
+          "1009026",
+          "3987992",
+          "3436033"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1019000",
+    "name": "严选",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4b02f01f-a365-4b6c-9f7a-8b0f591dda02.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "1065004",
+        "name": "滋补保健",
+        "picture": "https://yanxuan.nosdn.127.net/1e619a2b22f40bf83070e6f8f6e0c8ff.png?quality=95&imageView",
+        "parentId": "1019000",
+        "parentName": "严选",
+        "layer": 2,
+        "goodsIds": [
+          "3988969"
+        ]
+      },
+      {
+        "id": "109256014",
+        "name": "床品家纺",
+        "picture": "https://yanxuan.nosdn.127.net/e6580910c1f98ed61bda867aeaf07929.png?quality=95&imageView",
+        "parentId": "1019000",
+        "parentName": "严选",
+        "layer": 2,
+        "goodsIds": [
+          "3991211",
+          "3829130",
+          "3828110",
+          "1683030",
+          "1672002"
+        ]
+      },
+      {
+        "id": "109256015",
+        "name": "锅具配件",
+        "picture": "https://yanxuan.nosdn.127.net/50ccbf04857e86cccf44d25da0577deb.png?quality=95&imageView",
+        "parentId": "1019000",
+        "parentName": "严选",
+        "layer": 2,
+        "goodsIds": [
+          "4023839",
+          "4011740",
+          "1091003",
+          "3988148",
+          "3986195"
+        ]
+      },
+      {
+        "id": "109275000",
+        "name": "清洁用品",
+        "picture": "https://yanxuan.nosdn.127.net/926d919bc3e95f5c93dc5dc973faa378.png?quality=95&imageView",
+        "parentId": "1019000",
+        "parentName": "严选",
+        "layer": 2,
+        "goodsIds": [
+          "4027998",
+          "4010699",
+          "4017718",
+          "3998109",
+          "3990408"
+        ]
+      },
+      {
+        "id": "109309012",
+        "name": "个护电器",
+        "picture": "https://yanxuan.nosdn.127.net/7a0eea3c515ad247c092749bcdd29855.png?quality=95&imageView",
+        "parentId": "1019000",
+        "parentName": "严选",
+        "layer": 2,
+        "goodsIds": [
+          "4000009"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1043000",
+    "name": "数码",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/9660870d-6a59-4624-8064-b3a8cbf50d5c.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "1008006",
+        "name": "影音娱乐",
+        "picture": "https://yanxuan.nosdn.127.net/f5797ca77cfe413e7753ec69f9bd4bb1.png?quality=95&imageView",
+        "parentId": "1043000",
+        "parentName": "数码",
+        "layer": 2,
+        "goodsIds": [
+          "3990582",
+          "3989748",
+          "3806013",
+          "3990740",
+          "3842020"
+        ]
+      },
+      {
+        "id": "1022000",
+        "name": "3C数码",
+        "picture": "https://yanxuan.nosdn.127.net/99b8f97b2e5449606fd558574aa15982.png?quality=95&imageView",
+        "parentId": "1043000",
+        "parentName": "数码",
+        "layer": 2,
+        "goodsIds": [
+          "3486000",
+          "3487028",
+          "3464062",
+          "1569014",
+          "1406008"
+        ]
+      },
+      {
+        "id": "1028001",
+        "name": "乐器",
+        "picture": "https://yanxuan.nosdn.127.net/da0ac345e98c04594b697b56ebc373a5.png?quality=95&imageView",
+        "parentId": "1043000",
+        "parentName": "数码",
+        "layer": 2,
+        "goodsIds": [
+          "4034793",
+          "4033959",
+          "3993375"
+        ]
+      },
+      {
+        "id": "109243035",
+        "name": "手机配件",
+        "picture": "https://yanxuan.nosdn.127.net/0276d68f4b7a03bbd16675ada6e707ff.png?quality=95&imageView",
+        "parentId": "1043000",
+        "parentName": "数码",
+        "layer": 2,
+        "goodsIds": [
+          "1484016",
+          "1480015",
+          "1193027",
+          "3533020",
+          "1554052"
+        ]
+      },
+      {
+        "id": "109243036",
+        "name": "车载用品",
+        "picture": "https://yanxuan.nosdn.127.net/3f45fbcdac7e8532b6a1570e6d7fe171.png?quality=95&imageView",
+        "parentId": "1043000",
+        "parentName": "数码",
+        "layer": 2,
+        "goodsIds": [
+          "3844041",
+          "3827027",
+          "3440042",
+          "3994432",
+          "3992720"
+        ]
+      },
+      {
+        "id": "109243046",
+        "name": "办公文具",
+        "picture": "https://yanxuan.nosdn.127.net/801583d2f58274b13dc6a03daed1c3c9.png?quality=95&imageView",
+        "parentId": "1043000",
+        "parentName": "数码",
+        "layer": 2,
+        "goodsIds": [
+          "1111002",
+          "3499024",
+          "1512000",
+          "1458011",
+          "3529022"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "109243029",
+    "name": "运动",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/7d19752c-baff-49b6-bd02-5ece1d729214.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "109312000",
+        "name": "健身大器械",
+        "picture": "https://yanxuan.nosdn.127.net/6a1d37ffb2e28622a71e3c4415eaee35.png?quality=95&imageView",
+        "parentId": "109243029",
+        "parentName": "运动",
+        "layer": 2,
+        "goodsIds": [
+          "4019874",
+          "4018204",
+          "4023100",
+          "4018446",
+          "4014017"
+        ]
+      },
+      {
+        "id": "109312001",
+        "name": "健身小器械",
+        "picture": "https://yanxuan.nosdn.127.net/8c9f060e6fddb2b75af851a9a2c60087.png?quality=95&imageView",
+        "parentId": "109243029",
+        "parentName": "运动",
+        "layer": 2,
+        "goodsIds": [
+          "3995478",
+          "3995082",
+          "3994144",
+          "3990777",
+          "3987045"
+        ]
+      },
+      {
+        "id": "109312002",
+        "name": "城市出行",
+        "picture": "https://yanxuan.nosdn.127.net/b41b50710c3823f44a9f5b549a67ca81.png?quality=95&imageView",
+        "parentId": "109243029",
+        "parentName": "运动",
+        "layer": 2,
+        "goodsIds": [
+          "4023114",
+          "4011468",
+          "4007007",
+          "4023115",
+          "4013432"
+        ]
+      },
+      {
+        "id": "109312003",
+        "name": "运动护具",
+        "picture": "https://yanxuan.nosdn.127.net/ef9bcb99d88b3a1cfd9d2e120c158c21.png?quality=95&imageView",
+        "parentId": "109243029",
+        "parentName": "运动",
+        "layer": 2,
+        "goodsIds": [
+          "3994931",
+          "3995143",
+          "3521201",
+          "1687060",
+          "3520212"
+        ]
+      },
+      {
+        "id": "109313000",
+        "name": "垂钓",
+        "picture": "https://yanxuan.nosdn.127.net/c4eeeae307d0562cf3e95303146282b2.png?quality=95&imageView",
+        "parentId": "109243029",
+        "parentName": "运动",
+        "layer": 2,
+        "goodsIds": [
+          "4026116",
+          "4008940",
+          "4011360"
+        ]
+      },
+      {
+        "id": "109313003",
+        "name": "户外装备",
+        "picture": "https://yanxuan.nosdn.127.net/6bbd92c68741c857d842f0afd1c7bdd5.png?quality=95&imageView",
+        "parentId": "109243029",
+        "parentName": "运动",
+        "layer": 2,
+        "goodsIds": [
+          "3994572",
+          "3993694",
+          "3550194"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19999999",
+    "name": "杂项",
+    "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4ff20b9e-8150-4bd3-87a3-0cd6766938dd.png",
+    "layer": 1,
+    "children": [
+      {
+        "id": "19999999001",
+        "name": "家庭清洁杂项",
+        "picture": "https://yanxuan.nosdn.127.net/718318c0d3b55d011fcb7c7c843902ce.png?quality=95&imageView",
+        "parentId": "19999999",
+        "parentName": "杂项",
+        "layer": 2,
+        "goodsIds": [
+          "1589017",
+          "1548001",
+          "1525018",
+          "1085007",
+          "1076004"
+        ]
+      }
+    ]
+  }
+]

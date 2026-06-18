@@ -1,0 +1,71 @@
+{
+  "id": "1005999003",
+  "name": "居家生活用品",
+  "picture": null,
+  "parentId": "1005000",
+  "parentName": "居家",
+  "goods": [
+    {
+      "id": "1369155859933827074",
+      "name": "钻石陶瓷涂层多用锅18cm 小奶锅",
+      "desc": "安全耐用，易于清洗",
+      "price": "149.00",
+      "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-05/6fdcac19-dd44-442c-9212-f7ec3cf3ed18.jpg",
+      "orderNum": 310
+    },
+    {
+      "id": "1379052170040578049",
+      "name": "极光限定 珠光蓝珐琅锅",
+      "desc": null,
+      "price": "199.00",
+      "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-05/7f483771-6831-4a7a-abdb-2625acb755f3.png",
+      "orderNum": 234
+    }
+  ],
+  "categories": [
+    {
+      "id": "1005999003",
+      "name": "居家生活用品",
+      "layer": 2,
+      "parent": null
+    },
+    {
+      "id": "1008017",
+      "name": "收纳",
+      "layer": 2,
+      "parent": null
+    },
+    {
+      "id": "1017000",
+      "name": "宠物食品",
+      "layer": 2,
+      "parent": null
+    },
+    {
+      "id": "109243003",
+      "name": "艺术藏品",
+      "layer": 2,
+      "parent": null
+    },
+    {
+      "id": "109248004",
+      "name": "宠物用品",
+      "layer": 2,
+      "parent": null
+    },
+    {
+      "id": "109293000",
+      "name": "家庭医疗",
+      "layer": 2,
+      "parent": null
+    },
+    {
+      "id": "109308000",
+      "name": "中医保健",
+      "layer": 2,
+      "parent": null
+    }
+  ],
+  "brands": [],
+  "saleProperties": []
+}

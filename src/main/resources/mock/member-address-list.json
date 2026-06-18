@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "receiver": "张三",
+    "contact": "13800001111",
+    "provinceCode": "110000",
+    "cityCode": "110100",
+    "countyCode": "110105",
+    "address": "朝阳区建国路88号SOHO现代城A座1508室",
+    "fullLocation": "北京市 朝阳区 建国路",
+    "isDefault": true,
+    "postalCode": "100022"
+  },
+  {
+    "id": "2",
+    "receiver": "张三(公司)",
+    "contact": "13800001111",
+    "provinceCode": "110000",
+    "cityCode": "110100",
+    "countyCode": "110108",
+    "address": "海淀区中关村大街1号海淀大厦20层",
+    "fullLocation": "北京市 海淀区 中关村大街",
+    "isDefault": false,
+    "postalCode": "100080"
+  }
+]

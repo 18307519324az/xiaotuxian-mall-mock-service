@@ -1,0 +1,162 @@
+{
+  "demo_001": {
+    "id": "demo_001",
+    "name": "新疆棉花糖被·加厚保暖冬被",
+    "picture": "/images/products/demo_001.svg",
+    "price": "299.00",
+    "desc": "100%新疆长绒棉，亲肤保暖",
+    "salesCount": 1580,
+    "categoryId": "cat_home",
+    "targetGoodsId": "1091003"
+  },
+  "demo_002": {
+    "id": "demo_002",
+    "name": "日式简约·柔舒绒四件套",
+    "picture": "/images/products/demo_002.svg",
+    "price": "189.00",
+    "desc": "水洗棉面料，柔软亲肤",
+    "salesCount": 2340,
+    "categoryId": "cat_home",
+    "targetGoodsId": "1028004"
+  },
+  "demo_003": {
+    "id": "demo_003",
+    "name": "五常稻花香大米5kg",
+    "picture": "/images/products/demo_003.svg",
+    "price": "49.90",
+    "desc": "东北五常核心产区，有机种植",
+    "salesCount": 5670,
+    "categoryId": "cat_food",
+    "targetGoodsId": "1135079"
+  },
+  "demo_004": {
+    "id": "demo_004",
+    "name": "云南古树普洱熟茶饼357g",
+    "picture": "/images/products/demo_004.svg",
+    "price": "128.00",
+    "desc": "勐海古树原料，陈香浓郁",
+    "salesCount": 890,
+    "categoryId": "cat_food",
+    "targetGoodsId": "1135076"
+  },
+  "demo_005": {
+    "id": "demo_005",
+    "name": "男士轻薄羽绒服·立领修身",
+    "picture": "/images/products/demo_005.svg",
+    "price": "259.00",
+    "desc": "90%白鸭绒，轻暖无负担",
+    "salesCount": 3420,
+    "categoryId": "cat_fashion",
+    "targetGoodsId": "4000102"
+  },
+  "demo_006": {
+    "id": "demo_006",
+    "name": "女士羊毛混纺大衣·中长款",
+    "picture": "/images/products/demo_006.svg",
+    "price": "459.00",
+    "desc": "澳洲美利奴羊毛，挺括有型",
+    "salesCount": 1890,
+    "categoryId": "cat_fashion",
+    "targetGoodsId": "1666066"
+  },
+  "demo_007": {
+    "id": "demo_007",
+    "name": "婴儿纯棉连体衣·春秋款",
+    "picture": "/images/products/demo_007.svg",
+    "price": "69.00",
+    "desc": "A标一等品，无荧光剂",
+    "salesCount": 6780,
+    "categoryId": "cat_baby",
+    "targetGoodsId": "1006029"
+  },
+  "demo_008": {
+    "id": "demo_008",
+    "name": "儿童益智积木·百变拼搭桶",
+    "picture": "/images/products/demo_008.svg",
+    "price": "89.00",
+    "desc": "大颗粒安全材质，培养创造力",
+    "salesCount": 4560,
+    "categoryId": "cat_baby",
+    "targetGoodsId": "4023641"
+  },
+  "demo_009": {
+    "id": "demo_009",
+    "name": "氨基酸温和洁面乳120g",
+    "picture": "/images/products/demo_009.svg",
+    "price": "39.00",
+    "desc": "日本进口氨基酸，温和不紧绷",
+    "salesCount": 8910,
+    "categoryId": "cat_care",
+    "targetGoodsId": "1124015"
+  },
+  "demo_010": {
+    "id": "demo_010",
+    "name": "玻尿酸保湿面膜20片装",
+    "picture": "/images/products/demo_010.svg",
+    "price": "59.00",
+    "desc": "三重玻尿酸，深层补水",
+    "salesCount": 12340,
+    "categoryId": "cat_care",
+    "targetGoodsId": "1129016"
+  },
+  "demo_011": {
+    "id": "demo_011",
+    "name": "真无线蓝牙耳机·主动降噪",
+    "picture": "/images/products/demo_011.svg",
+    "price": "199.00",
+    "desc": "ANC主动降噪，30小时续航",
+    "salesCount": 7890,
+    "categoryId": "cat_digital",
+    "targetGoodsId": "3842020"
+  },
+  "demo_012": {
+    "id": "demo_012",
+    "name": "智能手环·心率血氧监测",
+    "picture": "/images/products/demo_012.svg",
+    "price": "149.00",
+    "desc": "1.47寸AMOLED，14天续航",
+    "salesCount": 5670,
+    "categoryId": "cat_digital",
+    "targetGoodsId": "3487028"
+  },
+  "demo_013": {
+    "id": "demo_013",
+    "name": "瑜伽垫加厚防滑·初学者专用",
+    "picture": "/images/products/demo_013.svg",
+    "price": "79.00",
+    "desc": "6mm加厚TPE材质，高密度缓冲",
+    "salesCount": 3450,
+    "categoryId": "cat_sport",
+    "targetGoodsId": "3990777"
+  },
+  "demo_014": {
+    "id": "demo_014",
+    "name": "弹簧跳绳·专业竞速轴承",
+    "picture": "/images/products/demo_014.svg",
+    "price": "29.00",
+    "desc": "不锈钢轴承，防缠绕设计",
+    "salesCount": 2340,
+    "categoryId": "cat_sport",
+    "targetGoodsId": "1281002"
+  },
+  "demo_015": {
+    "id": "demo_015",
+    "name": "304不锈钢保温壶2L",
+    "picture": "/images/products/demo_015.svg",
+    "price": "89.00",
+    "desc": "真空断热24小时，食品级304",
+    "salesCount": 4560,
+    "categoryId": "cat_home",
+    "targetGoodsId": "1109013"
+  },
+  "demo_016": {
+    "id": "demo_016",
+    "name": "手冲咖啡壶套装·分享壶600ml",
+    "picture": "/images/products/demo_016.svg",
+    "price": "119.00",
+    "desc": "高硼硅玻璃，V60滤杯",
+    "salesCount": 1670,
+    "categoryId": "cat_food",
+    "targetGoodsId": "1135059"
+  }
+}

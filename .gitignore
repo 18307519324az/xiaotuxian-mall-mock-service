@@ -1,0 +1,36 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Runtime data
+data/*-runtime.json
+*-runtime.json
+
+# Logs
+logs/
+diagnostics/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
