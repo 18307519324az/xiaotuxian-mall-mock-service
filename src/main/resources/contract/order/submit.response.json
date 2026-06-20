@@ -1,0 +1,10 @@
+{
+  "msg": "成功",
+  "result": {
+    "id": "ORD20260101001",
+    "createTime": "2026-01-01 10:00:00",
+    "payState": 0,
+    "payAmount": 957.00,
+    "payChannel": null
+  }
+}

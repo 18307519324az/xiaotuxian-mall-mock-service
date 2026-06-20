@@ -1,0 +1,20 @@
+{
+  "msg": "成功",
+  "result": {
+    "page": 1,
+    "pageSize": 10,
+    "counts": 386,
+    "items": [
+      {
+        "id": "1",
+        "orderInfo": { "buyCount": 1 },
+        "user": { "avatar": "https://picsum.photos/seed/avatar_1/100/100", "nickname": "小***明" },
+        "content": "质量很好，做工精细，非常满意！",
+        "score": 5,
+        "tags": ["质量很好", "款式好看"],
+        "pictures": [],
+        "createTime": "2026-01-15 14:30:00"
+      }
+    ]
+  }
+}

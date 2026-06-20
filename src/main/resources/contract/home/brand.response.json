@@ -1,0 +1,13 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "name": "小米",
+      "desc": "小米品牌官方旗舰店",
+      "picture": "https://picsum.photos/seed/brand_picture_1/240/305",
+      "place": "中国",
+      "logo": "https://picsum.photos/seed/brand_logo_1/120/120"
+    }
+  ]
+}

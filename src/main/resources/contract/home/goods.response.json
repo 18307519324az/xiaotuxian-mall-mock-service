@@ -1,0 +1,21 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "name": "居家",
+      "children": [{ "id": "101", "name": "家居生活" }],
+      "picture": "https://picsum.photos/seed/goods_cover_1/240/610",
+      "saleInfo": "居家好物 限时特惠",
+      "goods": [
+        {
+          "id": "101",
+          "picture": "https://picsum.photos/seed/goods_list_1/240/240",
+          "name": "北欧简约落地灯",
+          "tag": "简约设计，照亮你的家",
+          "price": 299.00
+        }
+      ]
+    }
+  ]
+}

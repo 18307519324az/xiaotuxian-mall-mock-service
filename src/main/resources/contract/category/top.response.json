@@ -1,0 +1,37 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "name": "居家",
+      "icon": "https://picsum.photos/seed/category_icon_1/120/120",
+      "picture": "https://picsum.photos/seed/category_picture_1/240/240",
+      "parentId": "0",
+      "children": [
+        {
+          "id": "101",
+          "name": "家居生活",
+          "icon": "https://picsum.photos/seed/category_icon_101/120/120",
+          "picture": "https://picsum.photos/seed/category_picture_101/240/240",
+          "parentId": "1",
+          "children": [
+            {
+              "id": "1001",
+              "name": "灯具",
+              "icon": "https://picsum.photos/seed/category_icon_1001/120/120",
+              "picture": "https://picsum.photos/seed/category_picture_1001/240/240",
+              "parentId": "101",
+              "children": [],
+              "brands": [],
+              "goods": []
+            }
+          ],
+          "brands": [],
+          "goods": []
+        }
+      ],
+      "brands": [],
+      "goods": []
+    }
+  ]
+}

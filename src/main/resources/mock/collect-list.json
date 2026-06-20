@@ -1,0 +1,23 @@
+{
+  "page": 1,
+  "pageSize": 10,
+  "counts": 2,
+  "items": [
+    {
+      "id": "1",
+      "name": "北欧简约落地灯",
+      "desc": "简约设计，适合各种家居风格",
+      "price": 299,
+      "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/fdbc5113-dcca-4b7f-b1d6-c51faf8e3de9.jpg",
+      "collectType": 1
+    },
+    {
+      "id": "2",
+      "name": "智能台灯Pro",
+      "desc": "智能调光，护眼舒适",
+      "price": 399,
+      "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cc95ddbf-f2f8-4c48-9845-0c5364557198.jpg",
+      "collectType": 1
+    }
+  ]
+}

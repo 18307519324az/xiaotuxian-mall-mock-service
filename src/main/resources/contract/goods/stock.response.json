@@ -1,0 +1,9 @@
+{
+  "msg": "成功",
+  "result": {
+    "skuId": "10001",
+    "price": 299.00,
+    "stock": 568,
+    "isEffective": true
+  }
+}

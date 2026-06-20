@@ -1,0 +1,17 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "receiver": "张三",
+      "contact": "13800001111",
+      "provinceCode": "110000",
+      "cityCode": "110100",
+      "countyCode": "110105",
+      "address": "朝阳区建国路88号SOHO现代城A座1508室",
+      "fullLocation": "北京市 朝阳区 建国路",
+      "isDefault": true,
+      "postalCode": "100022"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "msg": "成功",
+  "result": {
+    "id": "ORD20260101001",
+    "createTime": "2026-01-01 10:00:00",
+    "payType": 1,
+    "orderState": 3,
+    "payAmount": 957.00,
+    "totalMoney": 957.00,
+    "payTime": "2026-01-01 10:05:00",
+    "deliveryTime": "2026-01-02 14:00:00",
+    "skus": [
+      {
+        "id": "1",
+        "skuId": "10001",
+        "name": "北欧简约落地灯",
+        "attrsText": "白色 / 标准款(1.5m)",
+        "picture": "https://picsum.photos/seed/sku_picture_1/400/400",
+        "price": "299.00",
+        "nowPrice": "299.00",
+        "count": 1,
+        "realPay": 299.00
+      }
+    ],
+    "receiptAddress": {
+      "receiver": "张三",
+      "contact": "13800001111",
+      "fullLocation": "北京市 朝阳区 建国路",
+      "address": "建国路88号SOHO现代城A座1508室",
+      "postalCode": "100022"
+    },
+    "logistics": null,
+    "countdown": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "picture": "https://picsum.photos/seed/home_hot_1/306/306",
+      "title": "精品推荐",
+      "alt": "精选好物，品质生活"
+    }
+  ]
+}

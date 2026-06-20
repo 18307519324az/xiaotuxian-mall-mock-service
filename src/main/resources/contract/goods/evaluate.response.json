@@ -1,0 +1,12 @@
+{
+  "msg": "成功",
+  "result": {
+    "evaluateCount": 386,
+    "hasPictureCount": 128,
+    "goodRate": 0.98,
+    "tags": [
+      { "name": "质量很好", "count": 156 },
+      { "name": "款式好看", "count": 89 }
+    ]
+  }
+}

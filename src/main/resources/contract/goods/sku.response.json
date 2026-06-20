@@ -1,0 +1,12 @@
+{
+  "msg": "成功",
+  "result": {
+    "id": "10001",
+    "skuCode": "SKU10001-WH",
+    "price": 299.00,
+    "oldPrice": 359.00,
+    "picture": "https://picsum.photos/seed/sku_picture_1/400/400",
+    "isEffective": true,
+    "inventory": 568
+  }
+}

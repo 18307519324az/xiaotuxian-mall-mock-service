@@ -1,0 +1,80 @@
+{
+  "msg": "成功",
+  "result": {
+    "id": "1",
+    "name": "北欧简约落地灯",
+    "spuCode": "SPU10001",
+    "desc": "简约设计，照亮你的家",
+    "salesCount": 2589,
+    "commentCount": 386,
+    "collectCount": 1256,
+    "isPreSale": false,
+    "isCollect": false,
+    "publishTime": "2025-12-01 10:00:00",
+    "brand": {
+      "id": "3",
+      "name": "小米",
+      "desc": "小米品牌，品质保证",
+      "picture": "https://picsum.photos/seed/brand_picture_3/240/305",
+      "logo": "https://picsum.photos/seed/brand_logo_3/120/120"
+    },
+    "categories": [
+      { "id": "1", "name": "居家", "level": "level1" },
+      { "id": "101", "name": "家居生活", "level": "level2" },
+      { "id": "1003", "name": "灯具", "level": "level3" }
+    ],
+    "pictures": [
+      { "id": "1", "pictureUrl": "https://picsum.photos/seed/goods_main_1/800/800", "isMain": true }
+    ],
+    "mainPictures": [
+      "https://picsum.photos/seed/goods_main_1/800/800"
+    ],
+    "details": {
+      "properties": [
+        { "name": "品牌", "value": "小米" },
+        { "name": "型号", "value": "LD-1001" }
+      ],
+      "pictures": [
+        "https://picsum.photos/seed/goods_detail_1/800/800"
+      ]
+    },
+    "specs": [
+      {
+        "id": "1",
+        "name": "颜色",
+        "sort": 1,
+        "values": [
+          { "id": "11", "name": "白色", "picture": "" },
+          { "id": "12", "name": "黑色", "picture": "" }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "尺寸",
+        "sort": 2,
+        "values": [
+          { "id": "21", "name": "标准款(1.5m)", "picture": "" },
+          { "id": "22", "name": "加高款(1.8m)", "picture": "" }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "id": "10001",
+        "skuCode": "SKU10001-WH",
+        "price": 299.00,
+        "oldPrice": 359.00,
+        "picture": "https://picsum.photos/seed/sku_picture_1/400/400",
+        "isEffective": true,
+        "inventory": 568,
+        "specs": [
+          { "name": "颜色", "valueName": "白色" },
+          { "name": "尺寸", "valueName": "标准款(1.5m)" }
+        ]
+      }
+    ],
+    "inventory": 1420,
+    "oldPrice": 459.00,
+    "price": 299.00
+  }
+}

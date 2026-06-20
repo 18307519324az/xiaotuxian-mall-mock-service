@@ -1,0 +1,14 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "name": "智能台灯Pro",
+      "desc": "智能调光，护眼舒适",
+      "picture": "https://picsum.photos/seed/goods_list_1/240/240",
+      "price": 399.00,
+      "salesCount": 5678,
+      "commentCount": 892
+    }
+  ]
+}

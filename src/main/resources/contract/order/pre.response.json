@@ -1,0 +1,42 @@
+{
+  "msg": "成功",
+  "result": {
+    "userAddresses": [
+      {
+        "id": "1",
+        "receiver": "张三",
+        "contact": "13800001111",
+        "provinceCode": "110000",
+        "cityCode": "110100",
+        "countyCode": "110105",
+        "address": "朝阳区建国路88号SOHO现代城A座1508室",
+        "fullLocation": "北京市 朝阳区 建国路",
+        "isDefault": true,
+        "postalCode": "100022"
+      }
+    ],
+    "summary": {
+      "goodsCount": 1,
+      "totalPrice": 299.00,
+      "totalPayPrice": 299.00,
+      "postFee": 0,
+      "discountPrice": 0
+    },
+    "skus": [
+      {
+        "id": "1",
+        "skuId": "10001",
+        "name": "北欧简约落地灯",
+        "attrsText": "白色 / 标准款(1.5m)",
+        "picture": "https://picsum.photos/seed/sku_picture_1/400/400",
+        "price": "299.00",
+        "nowPrice": "299.00",
+        "stock": 568,
+        "count": 1,
+        "isEffective": true,
+        "totalPayPrice": 299,
+        "totalPrice": 299
+      }
+    ]
+  }
+}

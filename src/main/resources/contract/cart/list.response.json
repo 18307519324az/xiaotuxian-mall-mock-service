@@ -1,0 +1,18 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "skuId": "10001",
+      "name": "北欧简约落地灯",
+      "attrsText": "白色 / 标准款(1.5m)",
+      "picture": "https://picsum.photos/seed/sku_picture_1/400/400",
+      "price": "299.00",
+      "nowPrice": "299.00",
+      "selected": true,
+      "stock": 568,
+      "count": 1,
+      "isEffective": true
+    }
+  ]
+}

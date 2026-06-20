@@ -1,0 +1,99 @@
+{
+  "order_001": {
+    "id": "order_001",
+    "orderNo": "NO202606090001",
+    "userId": "user_001",
+    "orderState": 1,
+    "totalMoney": "191.90",
+    "totalNum": 4,
+    "payMoney": "191.90",
+    "postFee": "0.00",
+    "payChannel": 1,
+    "payType": 1,
+    "createTime": "2026-06-09T10:00:00",
+    "payLatestTime": "2026-06-09T23:59:59",
+    "skus": [
+      {
+        "id": "1027026",
+        "skuId": "1027026",
+        "goodsId": "1028004",
+        "name": "衣柜省空间神器，棉麻涤·收纳挂袋",
+        "attrsText": "四层（31*31.5*84cm）",
+        "picture": "https://yanxuan-item.nosdn.127.net/bc1291d1471bd8780f99d33261b963c4.png",
+        "price": "65.00",
+        "nowPrice": "65.00",
+        "count": 2,
+        "totalMoney": "130.00",
+        "totalPayMoney": "130.00"
+      },
+      {
+        "id": "1027027",
+        "skuId": "1027027",
+        "goodsId": "1028004",
+        "name": "衣柜省空间神器，棉麻涤·收纳挂袋",
+        "attrsText": "六层（15.5*31.5*79cm）",
+        "picture": "https://yanxuan-item.nosdn.127.net/871b0d7967f13fd1782764a319b5b0de.png",
+        "price": "55.00",
+        "nowPrice": "55.00",
+        "count": 1,
+        "totalMoney": "55.00",
+        "totalPayMoney": "55.00"
+      },
+      {
+        "id": "1030002",
+        "skuId": "1030002",
+        "goodsId": "1031002",
+        "name": "一面百洁布一面多孔海绵，三层复合洗碗刷",
+        "attrsText": "3片装",
+        "picture": "https://yanxuan-item.nosdn.127.net/363a490bc4b3a91d18d2ef78ec1a4ad6.png",
+        "price": "6.90",
+        "nowPrice": "6.90",
+        "count": 1,
+        "totalMoney": "6.90",
+        "totalPayMoney": "6.90"
+      }
+    ]
+  },
+  "order_002": {
+    "id": "order_002",
+    "orderNo": "NO202606090002",
+    "userId": "user_001",
+    "orderState": 4,
+    "totalMoney": "61.90",
+    "totalNum": 2,
+    "payMoney": "61.90",
+    "postFee": "8.00",
+    "payChannel": 1,
+    "payType": 1,
+    "createTime": "2026-06-08T15:30:00",
+    "payLatestTime": "2026-06-08T23:59:59",
+    "skus": [
+      {
+        "id": "1027027",
+        "skuId": "1027027",
+        "goodsId": "1028004",
+        "name": "衣柜省空间神器，棉麻涤·收纳挂袋",
+        "attrsText": "六层（15.5*31.5*79cm）",
+        "picture": "https://yanxuan-item.nosdn.127.net/871b0d7967f13fd1782764a319b5b0de.png",
+        "price": "55.00",
+        "nowPrice": "55.00",
+        "count": 1,
+        "totalMoney": "55.00",
+        "totalPayMoney": "55.00"
+      },
+      {
+        "id": "1030002",
+        "skuId": "1030002",
+        "goodsId": "1031002",
+        "name": "一面百洁布一面多孔海绵，三层复合洗碗刷",
+        "attrsText": "3片装",
+        "picture": "https://yanxuan-item.nosdn.127.net/363a490bc4b3a91d18d2ef78ec1a4ad6.png",
+        "price": "6.90",
+        "nowPrice": "6.90",
+        "count": 1,
+        "totalMoney": "6.90",
+        "totalPayMoney": "6.90"
+      }
+    ]
+  }
+}

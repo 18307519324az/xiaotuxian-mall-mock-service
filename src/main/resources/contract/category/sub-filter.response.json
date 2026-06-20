@@ -1,0 +1,24 @@
+{
+  "msg": "成功",
+  "result": {
+    "category": {
+      "id": "1001",
+      "name": "灯具",
+      "parentId": "101",
+      "parentName": "家居生活"
+    },
+    "brands": [
+      { "id": "1", "name": "小米", "picture": "https://picsum.photos/seed/brand_picture_1/240/305" }
+    ],
+    "saleProperties": [
+      {
+        "id": "1",
+        "name": "颜色",
+        "values": [
+          { "id": "11", "name": "白色" },
+          { "id": "12", "name": "黑色" }
+        ]
+      }
+    ]
+  }
+}

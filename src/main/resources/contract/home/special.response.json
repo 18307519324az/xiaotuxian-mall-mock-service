@@ -1,0 +1,15 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "title": "家居焕新季",
+      "summary": "精选好物，点亮生活",
+      "picture": "https://picsum.photos/seed/special_cover_1/404/288",
+      "collectNum": 1256,
+      "viewNum": 8562,
+      "price": 299.00,
+      "participateNum": 1234
+    }
+  ]
+}

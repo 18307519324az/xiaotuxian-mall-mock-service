@@ -1,0 +1,18 @@
+{
+  "msg": "成功",
+  "result": {
+    "page": 1,
+    "pageSize": 10,
+    "counts": 2,
+    "items": [
+      {
+        "id": "1",
+        "name": "北欧简约落地灯",
+        "desc": "简约设计，适合各种家居风格",
+        "price": 299.00,
+        "picture": "https://picsum.photos/seed/goods_list_1/240/240",
+        "collectType": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "msg": "成功",
+  "result": [
+    {
+      "id": "1",
+      "imgUrl": "https://picsum.photos/seed/home_banner_1/1240/500",
+      "hrefUrl": "/goods/1",
+      "type": "goods"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://picsum.photos/seed/home_banner_2/1240/500",
+      "hrefUrl": "/goods/2",
+      "type": "goods"
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://picsum.photos/seed/home_banner_3/1240/500",
+      "hrefUrl": "/goods/3",
+      "type": "goods"
+    }
+  ]
+}

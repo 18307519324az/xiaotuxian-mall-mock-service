@@ -1,0 +1,1936 @@
+{
+  "1006058": {
+    "salesCount": 5322,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1006058-1",
+          "goodsId": "1006058",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/1ba86bcc-ae71-42a3-bc3e-37b662f7f07e.jpg",
+            "nickname": "云***端"
+          },
+          "score": 5,
+          "content": "做工精致，手感很好，值得这个价格。",
+          "pictures": [],
+          "createTime": "2026-04-14 03:26:19",
+          "praiseCount": 8,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "【加厚加量款】1卷装，60节/卷，60g/㎡"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/10c2fa5b81bc46661aa91ff104307d52.png",
+            "goodsName": "**推荐木浆懒人抹布加厚干湿两用"
+          },
+          "tag": "好评",
+          "skuId": "300380033"
+        }
+      ]
+    }
+  },
+  "1076003": {
+    "salesCount": 8505,
+    "praisePercent": "100%",
+    "evaluateCount": 3,
+    "hasPictureCount": 1,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 2
+      },
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 3,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1076003-1",
+          "goodsId": "1076003",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/53bd6128-9ac4-46cd-8437-8db8d177a9bc.png",
+            "nickname": "星***空"
+          },
+          "score": 5,
+          "content": "质量很好，做工精细，非常满意！",
+          "pictures": [
+            "https://yanxuan-item.nosdn.127.net/0cff9f004bef1cc251b8e7888a2e2863.jpg"
+          ],
+          "createTime": "2026-05-06 03:26:19",
+          "praiseCount": 0,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "1个/22cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/559fcb724f757633ffb030745b9dae60.png",
+            "goodsName": "可替换头，蜂窝海绵洗杯刷"
+          },
+          "tag": "质量上乘",
+          "skuId": "1080004"
+        },
+        {
+          "id": "eval-1076003-2",
+          "goodsId": "1076003",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cdeaf7eb-a68f-485c-9fc3-82358ebed83b.jpg",
+            "nickname": "月***光"
+          },
+          "score": 5,
+          "content": "做工精致，手感很好，值得这个价格。",
+          "pictures": [],
+          "createTime": "2026-04-14 03:26:19",
+          "praiseCount": 10,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "洗杯刷替换海绵（3只装）"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/0934114e3739d21fb702c0800f9face7.png",
+            "goodsName": "可替换头，蜂窝海绵洗杯刷"
+          },
+          "tag": "质量上乘",
+          "skuId": "300195636"
+        },
+        {
+          "id": "eval-1076003-3",
+          "goodsId": "1076003",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/8a88a4bb-4ae9-41db-be7b-52a4ce4c1c24.png",
+            "nickname": "红***叶"
+          },
+          "score": 5,
+          "content": "收到就拆开用了，效果很好，超出预期。",
+          "pictures": [],
+          "createTime": "2026-04-25 03:26:19",
+          "praiseCount": 5,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "洗杯刷1只+3只三层复合洗碗刷"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/9ff90dac8bb2a656ec3bd6610c1c6c83.png",
+            "goodsName": "可替换头，蜂窝海绵洗杯刷"
+          },
+          "tag": "好评",
+          "skuId": "300236203"
+        }
+      ]
+    }
+  },
+  "1076004": {
+    "salesCount": 6009,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1076004-1",
+          "goodsId": "1076004",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/201516e3-25d0-48f5-bcee-7f0cafb14176.png",
+            "nickname": "云***端"
+          },
+          "score": 5,
+          "content": "做工精致，手感很好，值得这个价格。",
+          "pictures": [],
+          "createTime": "2026-06-03 03:26:19",
+          "praiseCount": 2,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "1只装"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/af4b564e3ea51e4931c626efd4230cad.png",
+            "goodsName": "软糯治愈系擦手，雪尼尔擦手球"
+          },
+          "tag": "好评",
+          "skuId": "1080005"
+        }
+      ]
+    }
+  },
+  "1189004": {
+    "salesCount": 4930,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1189004-1",
+          "goodsId": "1189004",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cc95ddbf-f2f8-4c48-9845-0c5364557198.jpg",
+            "nickname": "小***兔"
+          },
+          "score": 4,
+          "content": "做工精致，手感很好，值得这个价格。",
+          "pictures": [],
+          "createTime": "2026-03-15 03:26:19",
+          "praiseCount": 4,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "25克"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/6319d726fd2495b201624f009324ae90.png",
+            "goodsName": "竹荪25克"
+          },
+          "tag": "好评",
+          "skuId": "1231012"
+        }
+      ]
+    }
+  },
+  "1318002": {
+    "salesCount": 47362,
+    "praisePercent": "100%",
+    "evaluateCount": 3,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 2
+      },
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 3,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1318002-1",
+          "goodsId": "1318002",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/dbd4a233-cc27-470c-9c05-3ef91c3cf01a.png",
+            "nickname": "花***香"
+          },
+          "score": 5,
+          "content": "质量不错，和描述的一样，给力！",
+          "pictures": [],
+          "createTime": "2026-05-16 03:26:19",
+          "praiseCount": 4,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "2.0配方1.8千克/袋"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/7768af28b9d224b311cdbcbcd8d3e422.png",
+            "goodsName": "每一口都有七种肉，全价猫粮"
+          },
+          "tag": "质量上乘",
+          "skuId": "300356022"
+        },
+        {
+          "id": "eval-1318002-2",
+          "goodsId": "1318002",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "nickname": "兔***子"
+          },
+          "score": 5,
+          "content": "质量很好，做工精细，非常满意！",
+          "pictures": [],
+          "createTime": "2026-05-17 03:26:19",
+          "praiseCount": 1,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "2.0配方1.8千克/袋*4袋"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/cf106608fc148294c98e41efcf21e2ba.png",
+            "goodsName": "每一口都有七种肉，全价猫粮"
+          },
+          "tag": "好评",
+          "skuId": "300356023"
+        },
+        {
+          "id": "eval-1318002-3",
+          "goodsId": "1318002",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/8c2b6235-4028-45a3-88ec-af573ed6e178.png",
+            "nickname": "水***边"
+          },
+          "score": 4,
+          "content": "很满意的一次购物体验，值得推荐。",
+          "pictures": [],
+          "createTime": "2026-03-30 03:26:19",
+          "praiseCount": 10,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "2.0配方120克/袋"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/efee3efcf93d70b35cc931eaec771c30.png",
+            "goodsName": "每一口都有七种肉，全价猫粮"
+          },
+          "tag": "质量上乘",
+          "skuId": "300356024"
+        }
+      ]
+    }
+  },
+  "1389000": {
+    "salesCount": 645,
+    "praisePercent": "0%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "中评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1389000-1",
+          "goodsId": "1389000",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/53bd6128-9ac4-46cd-8437-8db8d177a9bc.png",
+            "nickname": "小***兔"
+          },
+          "score": 3,
+          "content": "东西还行，没有想象中那么好。",
+          "pictures": [],
+          "createTime": "2026-04-16 03:26:19",
+          "praiseCount": 8,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "1组花洒"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/f32377accf896a172b0e5ad845bddbe7.png",
+            "goodsName": "净水看得见韩国负离子增压除氯花洒"
+          },
+          "tag": "中评",
+          "skuId": "300315803"
+        }
+      ]
+    }
+  },
+  "1418009": {
+    "salesCount": 129,
+    "praisePercent": "0%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "中评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1418009-1",
+          "goodsId": "1418009",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/a53bc180-713a-4732-9dd4-69bec24432de.png",
+            "nickname": "水***边"
+          },
+          "score": 3,
+          "content": "质量还可以，不过价格偏高了。",
+          "pictures": [],
+          "createTime": "2026-03-18 03:26:19",
+          "praiseCount": 2,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "四层，27卷/箱"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/09504405bf4e7a5125f5b874407ce442.png",
+            "goodsName": "27卷整箱装谷风一木升级4层卷纸180g"
+          },
+          "tag": "中评",
+          "skuId": "300523142"
+        }
+      ]
+    }
+  },
+  "1435017": {
+    "salesCount": 13289,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1435017-1",
+          "goodsId": "1435017",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "nickname": "雨***后"
+          },
+          "score": 5,
+          "content": "质量不错，和描述的一样，给力！",
+          "pictures": [],
+          "createTime": "2026-03-22 03:26:19",
+          "praiseCount": 10,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "一袋装（内含2小包）"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/82f0611be100826caaee459ea4c35207.png",
+            "goodsName": "‘嗖’一下就通了日本管道毛发溶解剂"
+          },
+          "tag": "质量上乘",
+          "skuId": "1484028"
+        }
+      ]
+    }
+  },
+  "1487013": {
+    "salesCount": 5626,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1487013-1",
+          "goodsId": "1487013",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/a53bc180-713a-4732-9dd4-69bec24432de.png",
+            "nickname": "兔***子"
+          },
+          "score": 5,
+          "content": "质量很好，做工精细，非常满意！",
+          "pictures": [],
+          "createTime": "2026-03-21 03:26:19",
+          "praiseCount": 8,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "50g*4"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/0abc15eceaf7d201452c8429c9e8b1a7.png",
+            "goodsName": "清洁除菌二合一，蓝泡泡马桶清洁剂50g*4"
+          },
+          "tag": "质量上乘",
+          "skuId": "1584095"
+        }
+      ]
+    }
+  },
+  "1540016": {
+    "salesCount": 23341,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1540016-1",
+          "goodsId": "1540016",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "nickname": "云***端"
+          },
+          "score": 5,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [],
+          "createTime": "2026-03-18 03:26:19",
+          "praiseCount": 7,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "1包装"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/b0b105ba055b15b7229d0820b1d8ad70.png",
+            "goodsName": "饭后一张远离老油污，厨房除油污清洁湿巾"
+          },
+          "tag": "质量上乘",
+          "skuId": "1577096"
+        }
+      ]
+    }
+  },
+  "1548001": {
+    "salesCount": 20816,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1548001-1",
+          "goodsId": "1548001",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/4a79180a-1a5a-4042-8a77-4db0b9c800a8.jpg",
+            "nickname": "兔***子"
+          },
+          "score": 4,
+          "content": "颜色款式都很喜欢，下次还会回购。",
+          "pictures": [],
+          "createTime": "2026-04-14 03:26:19",
+          "praiseCount": 1,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "平口中号玫瑰金-宽450x长500x单层厚0.01mm（3卷90只）"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/cae48c06d4ae8951f083d10ffbafd3f9.jpg",
+            "goodsName": "添加茂金属更强韧，金属色垃圾袋"
+          },
+          "tag": "质量上乘",
+          "skuId": "1586002"
+        }
+      ]
+    }
+  },
+  "1554011": {
+    "salesCount": 2704,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1554011-1",
+          "goodsId": "1554011",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/bb0411c8-0407-460b-9db2-e1ca377d7227.jpg",
+            "nickname": "水***边"
+          },
+          "score": 5,
+          "content": "外观漂亮，实用性强，好评好评！",
+          "pictures": [],
+          "createTime": "2026-06-07 03:26:19",
+          "praiseCount": 3,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "80片装"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/3ba25ee25ac87d915d049187a83bdf43.png",
+            "goodsName": "不含酒精，使用安心爽肤清洁湿巾"
+          },
+          "tag": "质量上乘",
+          "skuId": "1590188"
+        }
+      ]
+    }
+  },
+  "1589017": {
+    "salesCount": 1274,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1589017-1",
+          "goodsId": "1589017",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "nickname": "花***香"
+          },
+          "score": 5,
+          "content": "质量不错，和描述的一样，给力！",
+          "pictures": [],
+          "createTime": "2026-06-08 03:26:19",
+          "praiseCount": 0,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "5件套"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/c520bba8209bae877158e8810d889aca.png",
+            "goodsName": "分场景使用不污染，超细纤维抹布分类5件套"
+          },
+          "tag": "好评",
+          "skuId": "1685000"
+        }
+      ]
+    }
+  },
+  "3407081": {
+    "salesCount": 9851,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3407081-1",
+          "goodsId": "3407081",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4ff20b9e-8150-4bd3-87a3-0cd6766938dd.png",
+            "nickname": "云***端"
+          },
+          "score": 5,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [],
+          "createTime": "2026-04-27 03:26:19",
+          "praiseCount": 7,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "1.8千克/袋"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/9e115f6a8537abf9d52a1edec4464fa9.png",
+            "goodsName": "全面助力发育，全价幼猫粮（阶段）1.8千克"
+          },
+          "tag": "好评",
+          "skuId": "300356045"
+        }
+      ]
+    }
+  },
+  "3436033": {
+    "salesCount": 10571,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3436033-1",
+          "goodsId": "3436033",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/07b52b63-d128-491f-b55e-ad9192a6baeb.jpg",
+            "nickname": "云***端"
+          },
+          "score": 5,
+          "content": "颜色款式都很喜欢，下次还会回购。",
+          "pictures": [],
+          "createTime": "2026-05-19 03:26:19",
+          "praiseCount": 5,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "雾蓝色"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/1b3824125ee35df4a0f4e7e4fddf8679.png",
+            "goodsName": "1件装【新疆棉】云珍·轻软旅行长绒棉方巾"
+          },
+          "tag": "好评",
+          "skuId": "300185123"
+        }
+      ]
+    }
+  },
+  "3806013": {
+    "salesCount": 157,
+    "praisePercent": "0%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "中评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3806013-1",
+          "goodsId": "3806013",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/b604a74a-12bc-4bbd-a9cc-fde88a6b4576.png",
+            "nickname": "小***兔"
+          },
+          "score": 3,
+          "content": "东西还行，没有想象中那么好。",
+          "pictures": [],
+          "createTime": "2026-03-24 03:26:19",
+          "praiseCount": 8,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "曜岩灰"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/1d4d1b74eeb49fa92fb189c7925c416a.png",
+            "goodsName": "平台云音乐氧气立体声蓝牙头戴式触控耳机"
+          },
+          "tag": "中评",
+          "skuId": "300084030"
+        }
+      ]
+    }
+  },
+  "3842020": {
+    "salesCount": 13214,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3842020-1",
+          "goodsId": "3842020",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "nickname": "云***端"
+          },
+          "score": 4,
+          "content": "很满意的一次购物体验，值得推荐。",
+          "pictures": [],
+          "createTime": "2026-04-29 03:26:19",
+          "praiseCount": 0,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "曜岩灰"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/89cf5236f5e04c6557d78e65ac17f275.png",
+            "goodsName": "平台云音乐真无线蓝牙耳机Lite版"
+          },
+          "tag": "好评",
+          "skuId": "300044130"
+        }
+      ]
+    }
+  },
+  "3986658": {
+    "salesCount": 1600,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3986658-1",
+          "goodsId": "3986658",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/8c2b6235-4028-45a3-88ec-af573ed6e178.png",
+            "nickname": "海***风"
+          },
+          "score": 5,
+          "content": "做工精致，手感很好，值得这个价格。",
+          "pictures": [],
+          "createTime": "2026-05-18 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "尺码",
+                "nameValue": "S80片/袋"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/2ef7bae498d4f29ce858bef4951f0514.png",
+            "goodsName": "快速吸水防回渗，宠物训导垫S码80片/袋"
+          },
+          "tag": "好评",
+          "skuId": "300188504"
+        }
+      ]
+    }
+  },
+  "3991211": {
+    "salesCount": 48,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 1,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3991211-1",
+          "goodsId": "3991211",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cdeaf7eb-a68f-485c-9fc3-82358ebed83b.jpg",
+            "nickname": "水***边"
+          },
+          "score": 4,
+          "content": "质量很好，做工精细，非常满意！",
+          "pictures": [
+            "https://yanxuan-item.nosdn.127.net/f418202b469902af9633ae7f77b0c6f1.jpg"
+          ],
+          "createTime": "2026-03-19 03:26:19",
+          "praiseCount": 5,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "萌萌羊-蓝"
+              },
+              {
+                "name": "尺寸",
+                "nameValue": "145*215cm（适合1.2m或1.35m床，填充物250g）"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/2d7aed403d9654243a4ead8e8b1d550a.png",
+            "goodsName": "奢享丝滑睡眠，儿童真丝蚕丝被"
+          },
+          "tag": "质量上乘",
+          "skuId": "300214919"
+        }
+      ]
+    }
+  },
+  "3993375": {
+    "salesCount": 11,
+    "praisePercent": "50%",
+    "evaluateCount": 2,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      },
+      {
+        "title": "中评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 2,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3993375-1",
+          "goodsId": "3993375",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/e83efb1b-309c-46f7-98a3-f1fefa694338.jpg",
+            "nickname": "水***边"
+          },
+          "score": 5,
+          "content": "性价比很高，推荐购买～",
+          "pictures": [],
+          "createTime": "2026-05-27 03:26:19",
+          "praiseCount": 1,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "日落色"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/f1e3c5b01b05d8c53c1e96797379af9e.png",
+            "goodsName": "云音乐定制IN系列intar民谣木吉他"
+          },
+          "tag": "好评",
+          "skuId": "300233525"
+        },
+        {
+          "id": "eval-3993375-2",
+          "goodsId": "3993375",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/53bd6128-9ac4-46cd-8437-8db8d177a9bc.png",
+            "nickname": "海***风"
+          },
+          "score": 3,
+          "content": "普普通通，没有什么特别之处。",
+          "pictures": [],
+          "createTime": "2026-03-21 03:26:19",
+          "praiseCount": 3,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "日落色"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/f1e3c5b01b05d8c53c1e96797379af9e.png",
+            "goodsName": "云音乐定制IN系列intar民谣木吉他"
+          },
+          "tag": "中评",
+          "skuId": "300233525"
+        }
+      ]
+    }
+  },
+  "3994470": {
+    "salesCount": 449,
+    "praisePercent": "0%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "中评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3994470-1",
+          "goodsId": "3994470",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/1ba86bcc-ae71-42a3-bc3e-37b662f7f07e.jpg",
+            "nickname": "花***香"
+          },
+          "score": 3,
+          "content": "一般般吧，凑合能用。",
+          "pictures": [],
+          "createTime": "2026-04-01 03:26:19",
+          "praiseCount": 8,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "翻领款-姜黄"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "73cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/835675c55305af27e749feb3f85b9757.png",
+            "goodsName": "复古格调，儿童灯芯绒衬衫73-130cm"
+          },
+          "tag": "中评",
+          "skuId": "300238678"
+        }
+      ]
+    }
+  },
+  "3994471": {
+    "salesCount": 436,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 1,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3994471-1",
+          "goodsId": "3994471",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "nickname": "花***香"
+          },
+          "score": 5,
+          "content": "做工精致，手感很好，值得这个价格。",
+          "pictures": [
+            "https://yanxuan-item.nosdn.127.net/af24b7bbab47cf2c86ffdd4ce3b192cc.jpg"
+          ],
+          "createTime": "2026-04-19 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "花型",
+                "nameValue": "魔法星球"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "73cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/2d217642414a5030a3ff5dfd353fcf07.png",
+            "goodsName": "甜酷运动风，儿童卫衣运动套装73-130cm"
+          },
+          "tag": "好评",
+          "skuId": "300239530"
+        }
+      ]
+    }
+  },
+  "3995846": {
+    "salesCount": 135,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-3995846-1",
+          "goodsId": "3995846",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/e83efb1b-309c-46f7-98a3-f1fefa694338.jpg",
+            "nickname": "白***雪"
+          },
+          "score": 5,
+          "content": "颜色款式都很喜欢，下次还会回购。",
+          "pictures": [],
+          "createTime": "2026-05-25 03:26:19",
+          "praiseCount": 8,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "花型",
+                "nameValue": "斑马纹"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "73cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/915bd94cf43cf3acc99956724726fcf6.png",
+            "goodsName": "加绒加厚，儿童保暖时尚卫衣套装73-120cm"
+          },
+          "tag": "好评",
+          "skuId": "300248014"
+        }
+      ]
+    }
+  },
+  "4000277": {
+    "salesCount": 243,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 1,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4000277-1",
+          "goodsId": "4000277",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4b02f01f-a365-4b6c-9f7a-8b0f591dda02.png",
+            "nickname": "兔***子"
+          },
+          "score": 4,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [
+            "https://yanxuan-item.nosdn.127.net/62fdd402371bdbf5edb837ff0d9fb3fd.jpg"
+          ],
+          "createTime": "2026-03-21 03:26:19",
+          "praiseCount": 10,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "小橙子"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "59cm（建议0-6个月）"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/6b2f61a23978c602fc213445718aa4b8.png",
+            "goodsName": "21春季新品，宝宝舒适四季连体衣0-3岁"
+          },
+          "tag": "好评",
+          "skuId": "300283111"
+        }
+      ]
+    }
+  },
+  "4000278": {
+    "salesCount": 8858,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4000278-1",
+          "goodsId": "4000278",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "nickname": "小***兔"
+          },
+          "score": 5,
+          "content": "颜色款式都很喜欢，下次还会回购。",
+          "pictures": [],
+          "createTime": "2026-06-02 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "2.6千克"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/03377b0aecaffbda8cd274f4a791cf05.png",
+            "goodsName": "不易带出，3毫米原味豆腐猫砂2.6千克"
+          },
+          "tag": "质量上乘",
+          "skuId": "300282776"
+        }
+      ]
+    }
+  },
+  "4001880": {
+    "salesCount": 128,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4001880-1",
+          "goodsId": "4001880",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/201516e3-25d0-48f5-bcee-7f0cafb14176.png",
+            "nickname": "雨***后"
+          },
+          "score": 4,
+          "content": "品质很好，价格也实惠，会继续关注。",
+          "pictures": [],
+          "createTime": "2026-04-29 03:26:19",
+          "praiseCount": 3,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "规格",
+                "nameValue": "旺宝"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/573c2e8d2cfa900ece19348d4a939262.png",
+            "goodsName": "朱炳仁·铜彩色生肖铜雕摆件"
+          },
+          "tag": "质量上乘",
+          "skuId": "300299457"
+        }
+      ]
+    }
+  },
+  "4005109": {
+    "salesCount": 182,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 1,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4005109-1",
+          "goodsId": "4005109",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/53bd6128-9ac4-46cd-8437-8db8d177a9bc.png",
+            "nickname": "雨***后"
+          },
+          "score": 4,
+          "content": "品质很好，价格也实惠，会继续关注。",
+          "pictures": [
+            "https://yanxuan-item.nosdn.127.net/b7e183713f0d3cb6e0e565502d583732.jpg"
+          ],
+          "createTime": "2026-04-25 03:26:19",
+          "praiseCount": 5,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "粉白条"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "73cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/aff7ec86fdbcc144b9d1179ca76a6b27.png",
+            "goodsName": "条纹CHIC风，女童字母条纹连衣裙73-130cm"
+          },
+          "tag": "质量上乘",
+          "skuId": "300337024"
+        }
+      ]
+    }
+  },
+  "4007007": {
+    "salesCount": 483,
+    "praisePercent": "100%",
+    "evaluateCount": 4,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 2
+      },
+      {
+        "title": "好评",
+        "tagCount": 2
+      }
+    ],
+    "page": {
+      "counts": 4,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4007007-1",
+          "goodsId": "4007007",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cc95ddbf-f2f8-4c48-9845-0c5364557198.jpg",
+            "nickname": "白***雪"
+          },
+          "score": 5,
+          "content": "外观漂亮，实用性强，好评好评！",
+          "pictures": [],
+          "createTime": "2026-03-14 03:26:19",
+          "praiseCount": 6,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "黑色"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "M"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/ea821c2f90b78863c9f46e5f02619f50.png",
+            "goodsName": "轻量电动车骑行盔"
+          },
+          "tag": "质量上乘",
+          "skuId": "300334979"
+        },
+        {
+          "id": "eval-4007007-2",
+          "goodsId": "4007007",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "nickname": "雨***后"
+          },
+          "score": 5,
+          "content": "品质很好，价格也实惠，会继续关注。",
+          "pictures": [],
+          "createTime": "2026-06-05 03:26:19",
+          "praiseCount": 0,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "黑色"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "L"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/ea821c2f90b78863c9f46e5f02619f50.png",
+            "goodsName": "轻量电动车骑行盔"
+          },
+          "tag": "好评",
+          "skuId": "300334980"
+        },
+        {
+          "id": "eval-4007007-3",
+          "goodsId": "4007007",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/6d202d8e-bb47-4f92-9523-f32ab65754f4.jpg",
+            "nickname": "星***空"
+          },
+          "score": 5,
+          "content": "颜色款式都很喜欢，下次还会回购。",
+          "pictures": [],
+          "createTime": "2026-04-18 03:26:19",
+          "praiseCount": 0,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "白色"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "M"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/c9a5e1b1900811bf7d4f9b84d460c5dc.png",
+            "goodsName": "轻量电动车骑行盔"
+          },
+          "tag": "质量上乘",
+          "skuId": "300334981"
+        },
+        {
+          "id": "eval-4007007-4",
+          "goodsId": "4007007",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "nickname": "红***叶"
+          },
+          "score": 5,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [],
+          "createTime": "2026-05-16 03:26:19",
+          "praiseCount": 6,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "白色"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "L"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/c9a5e1b1900811bf7d4f9b84d460c5dc.png",
+            "goodsName": "轻量电动车骑行盔"
+          },
+          "tag": "好评",
+          "skuId": "300334982"
+        }
+      ]
+    }
+  },
+  "4014017": {
+    "salesCount": 993,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4014017-1",
+          "goodsId": "4014017",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "nickname": "兔***子"
+          },
+          "score": 5,
+          "content": "品质很好，价格也实惠，会继续关注。",
+          "pictures": [],
+          "createTime": "2026-04-01 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "米白色"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/bf53d2a4459f58a41a9e96cad735a742.jpg",
+            "goodsName": "野小兽磁阻划船机健身器材家用室内运动训练"
+          },
+          "tag": "好评",
+          "skuId": "300389178"
+        }
+      ]
+    }
+  },
+  "4023745": {
+    "salesCount": 7,
+    "praisePercent": "50%",
+    "evaluateCount": 2,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "差评",
+        "tagCount": 1
+      },
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 2,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4023745-1",
+          "goodsId": "4023745",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/ad0bc65f-e48b-4c5a-b69a-89ec337771e6.png",
+            "nickname": "花***香"
+          },
+          "score": 2,
+          "content": "做工粗糙，不值这个价。",
+          "pictures": [],
+          "createTime": "2026-05-21 03:26:19",
+          "praiseCount": 10,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "花色",
+                "nameValue": "灰紫豹子"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "59cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/53c4b85ab777cd158d91bb6985e17f01.png",
+            "goodsName": "21秋季新品，棉毛布基础款哈衣59-90cm"
+          },
+          "tag": "差评",
+          "skuId": "300470337"
+        },
+        {
+          "id": "eval-4023745-2",
+          "goodsId": "4023745",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4b02f01f-a365-4b6c-9f7a-8b0f591dda02.png",
+            "nickname": "星***空"
+          },
+          "score": 5,
+          "content": "性价比很高，推荐购买～",
+          "pictures": [],
+          "createTime": "2026-04-26 03:26:19",
+          "praiseCount": 6,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "花色",
+                "nameValue": "灰紫豹子"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "66cm"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/53c4b85ab777cd158d91bb6985e17f01.png",
+            "goodsName": "21秋季新品，棉毛布基础款哈衣59-90cm"
+          },
+          "tag": "好评",
+          "skuId": "300470338"
+        }
+      ]
+    }
+  },
+  "4026450": {
+    "salesCount": 172,
+    "praisePercent": "100%",
+    "evaluateCount": 1,
+    "hasPictureCount": 1,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 1,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4026450-1",
+          "goodsId": "4026450",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/dfc11bb0-4af5-4e9b-9458-99f615cc685a.jpg",
+            "nickname": "小***兔"
+          },
+          "score": 5,
+          "content": "收到就拆开用了，效果很好，超出预期。",
+          "pictures": [
+            "https://yanxuan-item.nosdn.127.net/e80c854997e5c55abc2f7d55470670ee.jpg"
+          ],
+          "createTime": "2026-03-29 03:26:19",
+          "praiseCount": 5,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "米白"
+              },
+              {
+                "name": "尺码",
+                "nameValue": "73/18M"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/25320ac8a79b26b5baff8337010e9670.png",
+            "goodsName": "趣味小恐龙绣花，男童灯芯绒衬衫"
+          },
+          "tag": "质量上乘",
+          "skuId": "300476623"
+        }
+      ]
+    }
+  },
+  "4033959": {
+    "salesCount": 485,
+    "praisePercent": "100%",
+    "evaluateCount": 2,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      },
+      {
+        "title": "好评",
+        "tagCount": 1
+      }
+    ],
+    "page": {
+      "counts": 2,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-4033959-1",
+          "goodsId": "4033959",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cdeaf7eb-a68f-485c-9fc3-82358ebed83b.jpg",
+            "nickname": "水***边"
+          },
+          "score": 5,
+          "content": "性价比很高，推荐购买～",
+          "pictures": [],
+          "createTime": "2026-06-11 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "午夜黑-C调"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/12e312eb698540c2d5bade6dc3a08a16.png",
+            "goodsName": "3秒快速拆琴轻松保养odin奥丁12半音阶口琴"
+          },
+          "tag": "质量上乘",
+          "skuId": "300529651"
+        },
+        {
+          "id": "eval-4033959-2",
+          "goodsId": "4033959",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4b02f01f-a365-4b6c-9f7a-8b0f591dda02.png",
+            "nickname": "星***空"
+          },
+          "score": 5,
+          "content": "性价比很高，推荐购买～",
+          "pictures": [],
+          "createTime": "2026-03-30 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "午夜黑-C调"
+              }
+            ],
+            "picture": "https://yanxuan-item.nosdn.127.net/12e312eb698540c2d5bade6dc3a08a16.png",
+            "goodsName": "3秒快速拆琴轻松保养odin奥丁12半音阶口琴"
+          },
+          "tag": "好评",
+          "skuId": "300529651"
+        }
+      ]
+    }
+  },
+  "1379052170040578049": {
+    "salesCount": 4736,
+    "praisePercent": "100%",
+    "evaluateCount": 4,
+    "hasPictureCount": 0,
+    "tags": [
+      {
+        "title": "质量上乘",
+        "tagCount": 1
+      },
+      {
+        "title": "好评",
+        "tagCount": 3
+      }
+    ],
+    "page": {
+      "counts": 4,
+      "pageSize": 10,
+      "pages": 1,
+      "page": 1,
+      "items": [
+        {
+          "id": "eval-1379052170040578049-1",
+          "goodsId": "1379052170040578049",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/6d202d8e-bb47-4f92-9523-f32ab65754f4.jpg",
+            "nickname": "花***香"
+          },
+          "score": 5,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [],
+          "createTime": "2026-05-19 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "黑色"
+              },
+              {
+                "name": "尺寸",
+                "nameValue": "30cm"
+              },
+              {
+                "name": "产地",
+                "nameValue": "日本"
+              }
+            ],
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-05/cd6c46b6-b944-4479-b547-cdee294568a1.png",
+            "goodsName": "极光限定 珠光蓝珐琅锅"
+          },
+          "tag": "质量上乘",
+          "skuId": "1379052170296430594"
+        },
+        {
+          "id": "eval-1379052170040578049-2",
+          "goodsId": "1379052170040578049",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/dfc11bb0-4af5-4e9b-9458-99f615cc685a.jpg",
+            "nickname": "海***风"
+          },
+          "score": 5,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [],
+          "createTime": "2026-05-30 03:26:19",
+          "praiseCount": 7,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "黑色"
+              },
+              {
+                "name": "尺寸",
+                "nameValue": "10cm"
+              },
+              {
+                "name": "产地",
+                "nameValue": "日本"
+              }
+            ],
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-05/cd6c46b6-b944-4479-b547-cdee294568a1.png",
+            "goodsName": "极光限定 珠光蓝珐琅锅"
+          },
+          "tag": "好评",
+          "skuId": "1379052170476785665"
+        },
+        {
+          "id": "eval-1379052170040578049-3",
+          "goodsId": "1379052170040578049",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/07b52b63-d128-491f-b55e-ad9192a6baeb.jpg",
+            "nickname": "山***间"
+          },
+          "score": 5,
+          "content": "性价比很高，推荐购买～",
+          "pictures": [],
+          "createTime": "2026-05-31 03:26:19",
+          "praiseCount": 1,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "黑色"
+              },
+              {
+                "name": "尺寸",
+                "nameValue": "20cm"
+              },
+              {
+                "name": "产地",
+                "nameValue": "日本"
+              }
+            ],
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-05/cd6c46b6-b944-4479-b547-cdee294568a1.png",
+            "goodsName": "极光限定 珠光蓝珐琅锅"
+          },
+          "tag": "好评",
+          "skuId": "1379052170611003393"
+        },
+        {
+          "id": "eval-1379052170040578049-4",
+          "goodsId": "1379052170040578049",
+          "member": {
+            "avatar": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-05-06/4ff20b9e-8150-4bd3-87a3-0cd6766938dd.png",
+            "nickname": "白***雪"
+          },
+          "score": 4,
+          "content": "物流很快，包装完好，好评！",
+          "pictures": [],
+          "createTime": "2026-05-29 03:26:19",
+          "praiseCount": 9,
+          "orderInfo": {
+            "specs": [
+              {
+                "name": "颜色",
+                "nameValue": "黑色"
+              },
+              {
+                "name": "尺寸",
+                "nameValue": "30cm"
+              },
+              {
+                "name": "产地",
+                "nameValue": "中国"
+              }
+            ],
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-05/cd6c46b6-b944-4479-b547-cdee294568a1.png",
+            "goodsName": "极光限定 珠光蓝珐琅锅"
+          },
+          "tag": "好评",
+          "skuId": "1379052170749415425"
+        }
+      ]
+    }
+  }
+}
